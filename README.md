@@ -43,4 +43,4 @@ By putting these data-backed strategies into practice, 'The Used Car Emporium' c
 
 Explore the full analysis and code in the Google Colab notebook:
 
-[Link to your Colab Notebook Here]
+[[Link to your Colab Notebook Here]](https://github.com/tahirp/car-price-drivers-analysis/blob/main/used_car_price_analysis.ipynb)
